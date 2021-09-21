@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/NHL-Comparison-Tool/static/css/main.2ab916a9.chunk.css",
-    "main.js": "/NHL-Comparison-Tool/static/js/main.0758acc3.chunk.js",
-    "main.js.map": "/NHL-Comparison-Tool/static/js/main.0758acc3.chunk.js.map",
+    "main.css": "/NHL-Comparison-Tool/static/css/main.040b57a1.chunk.css",
+    "main.js": "/NHL-Comparison-Tool/static/js/main.32f5767c.chunk.js",
+    "main.js.map": "/NHL-Comparison-Tool/static/js/main.32f5767c.chunk.js.map",
     "runtime-main.js": "/NHL-Comparison-Tool/static/js/runtime-main.03f21088.js",
     "runtime-main.js.map": "/NHL-Comparison-Tool/static/js/runtime-main.03f21088.js.map",
     "static/css/2.41953c31.chunk.css": "/NHL-Comparison-Tool/static/css/2.41953c31.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.3578529f.chunk.js.map": "/NHL-Comparison-Tool/static/js/3.3578529f.chunk.js.map",
     "index.html": "/NHL-Comparison-Tool/index.html",
     "static/css/2.41953c31.chunk.css.map": "/NHL-Comparison-Tool/static/css/2.41953c31.chunk.css.map",
-    "static/css/main.2ab916a9.chunk.css.map": "/NHL-Comparison-Tool/static/css/main.2ab916a9.chunk.css.map",
+    "static/css/main.040b57a1.chunk.css.map": "/NHL-Comparison-Tool/static/css/main.040b57a1.chunk.css.map",
     "static/js/2.6993c31c.chunk.js.LICENSE.txt": "/NHL-Comparison-Tool/static/js/2.6993c31c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/NHL-Comparison-Tool/static/media/logo.6ce24c58.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.03f21088.js",
     "static/css/2.41953c31.chunk.css",
     "static/js/2.6993c31c.chunk.js",
-    "static/css/main.2ab916a9.chunk.css",
-    "static/js/main.0758acc3.chunk.js"
+    "static/css/main.040b57a1.chunk.css",
+    "static/js/main.32f5767c.chunk.js"
   ]
 }
