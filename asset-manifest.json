@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nhl-comparison-tool/static/css/main.d91fa471.chunk.css",
-    "main.js": "/nhl-comparison-tool/static/js/main.e6135c8e.chunk.js",
-    "main.js.map": "/nhl-comparison-tool/static/js/main.e6135c8e.chunk.js.map",
+    "main.css": "/nhl-comparison-tool/static/css/main.65662cb4.chunk.css",
+    "main.js": "/nhl-comparison-tool/static/js/main.40ba9d1b.chunk.js",
+    "main.js.map": "/nhl-comparison-tool/static/js/main.40ba9d1b.chunk.js.map",
     "runtime-main.js": "/nhl-comparison-tool/static/js/runtime-main.31c78d56.js",
     "runtime-main.js.map": "/nhl-comparison-tool/static/js/runtime-main.31c78d56.js.map",
     "static/css/2.41953c31.chunk.css": "/nhl-comparison-tool/static/css/2.41953c31.chunk.css",
@@ -12,15 +12,17 @@
     "static/js/3.3578529f.chunk.js.map": "/nhl-comparison-tool/static/js/3.3578529f.chunk.js.map",
     "index.html": "/nhl-comparison-tool/index.html",
     "static/css/2.41953c31.chunk.css.map": "/nhl-comparison-tool/static/css/2.41953c31.chunk.css.map",
-    "static/css/main.d91fa471.chunk.css.map": "/nhl-comparison-tool/static/css/main.d91fa471.chunk.css.map",
+    "static/css/main.65662cb4.chunk.css.map": "/nhl-comparison-tool/static/css/main.65662cb4.chunk.css.map",
     "static/js/2.6993c31c.chunk.js.LICENSE.txt": "/nhl-comparison-tool/static/js/2.6993c31c.chunk.js.LICENSE.txt",
+    "static/media/FullImage.db9508e9.jpg": "/nhl-comparison-tool/static/media/FullImage.db9508e9.jpg",
+    "static/media/App.css": "/nhl-comparison-tool/static/media/StickOnly.f7caad88.jpg",
     "static/media/logo.6ce24c58.svg": "/nhl-comparison-tool/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.31c78d56.js",
     "static/css/2.41953c31.chunk.css",
     "static/js/2.6993c31c.chunk.js",
-    "static/css/main.d91fa471.chunk.css",
-    "static/js/main.e6135c8e.chunk.js"
+    "static/css/main.65662cb4.chunk.css",
+    "static/js/main.40ba9d1b.chunk.js"
   ]
 }
