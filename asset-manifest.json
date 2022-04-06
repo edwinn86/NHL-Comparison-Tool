@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/nhl-comparison-tool/static/css/main.65662cb4.chunk.css",
-    "main.js": "/nhl-comparison-tool/static/js/main.40ba9d1b.chunk.js",
-    "main.js.map": "/nhl-comparison-tool/static/js/main.40ba9d1b.chunk.js.map",
+    "main.css": "/nhl-comparison-tool/static/css/main.57362530.chunk.css",
+    "main.js": "/nhl-comparison-tool/static/js/main.c05c238d.chunk.js",
+    "main.js.map": "/nhl-comparison-tool/static/js/main.c05c238d.chunk.js.map",
     "runtime-main.js": "/nhl-comparison-tool/static/js/runtime-main.31c78d56.js",
     "runtime-main.js.map": "/nhl-comparison-tool/static/js/runtime-main.31c78d56.js.map",
     "static/css/2.41953c31.chunk.css": "/nhl-comparison-tool/static/css/2.41953c31.chunk.css",
-    "static/js/2.6993c31c.chunk.js": "/nhl-comparison-tool/static/js/2.6993c31c.chunk.js",
-    "static/js/2.6993c31c.chunk.js.map": "/nhl-comparison-tool/static/js/2.6993c31c.chunk.js.map",
+    "static/js/2.91de7324.chunk.js": "/nhl-comparison-tool/static/js/2.91de7324.chunk.js",
+    "static/js/2.91de7324.chunk.js.map": "/nhl-comparison-tool/static/js/2.91de7324.chunk.js.map",
     "static/js/3.3578529f.chunk.js": "/nhl-comparison-tool/static/js/3.3578529f.chunk.js",
     "static/js/3.3578529f.chunk.js.map": "/nhl-comparison-tool/static/js/3.3578529f.chunk.js.map",
     "index.html": "/nhl-comparison-tool/index.html",
     "static/css/2.41953c31.chunk.css.map": "/nhl-comparison-tool/static/css/2.41953c31.chunk.css.map",
-    "static/css/main.65662cb4.chunk.css.map": "/nhl-comparison-tool/static/css/main.65662cb4.chunk.css.map",
-    "static/js/2.6993c31c.chunk.js.LICENSE.txt": "/nhl-comparison-tool/static/js/2.6993c31c.chunk.js.LICENSE.txt",
-    "static/media/FullImage.db9508e9.jpg": "/nhl-comparison-tool/static/media/FullImage.db9508e9.jpg",
-    "static/media/App.css": "/nhl-comparison-tool/static/media/StickOnly.f7caad88.jpg",
-    "static/media/logo.6ce24c58.svg": "/nhl-comparison-tool/static/media/logo.6ce24c58.svg"
+    "static/css/main.57362530.chunk.css.map": "/nhl-comparison-tool/static/css/main.57362530.chunk.css.map",
+    "static/js/2.91de7324.chunk.js.LICENSE.txt": "/nhl-comparison-tool/static/js/2.91de7324.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nhl-comparison-tool/static/media/StickOnly.f7caad88.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.31c78d56.js",
     "static/css/2.41953c31.chunk.css",
-    "static/js/2.6993c31c.chunk.js",
-    "static/css/main.65662cb4.chunk.css",
-    "static/js/main.40ba9d1b.chunk.js"
+    "static/js/2.91de7324.chunk.js",
+    "static/css/main.57362530.chunk.css",
+    "static/js/main.c05c238d.chunk.js"
   ]
 }

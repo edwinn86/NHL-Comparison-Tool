@@ -56,9 +56,9 @@ function Sidebar(props){
             <p>Shots</p>
           </span>
         </div>
-        <div>
+        <div className = "stat_div">
           <span className="sidebarSpan right">
-            <p>Shooting %</p>
+            <p>Shooting%</p>
           </span>
         </div>
       </div>);
