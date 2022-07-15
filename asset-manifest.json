@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nhl-comparison-tool/static/css/main.57362530.chunk.css",
+    "main.css": "/nhl-comparison-tool/static/css/main.aadcdcd3.chunk.css",
     "main.js": "/nhl-comparison-tool/static/js/main.c05c238d.chunk.js",
     "main.js.map": "/nhl-comparison-tool/static/js/main.c05c238d.chunk.js.map",
     "runtime-main.js": "/nhl-comparison-tool/static/js/runtime-main.31c78d56.js",
@@ -12,7 +12,7 @@
     "static/js/3.3578529f.chunk.js.map": "/nhl-comparison-tool/static/js/3.3578529f.chunk.js.map",
     "index.html": "/nhl-comparison-tool/index.html",
     "static/css/2.41953c31.chunk.css.map": "/nhl-comparison-tool/static/css/2.41953c31.chunk.css.map",
-    "static/css/main.57362530.chunk.css.map": "/nhl-comparison-tool/static/css/main.57362530.chunk.css.map",
+    "static/css/main.aadcdcd3.chunk.css.map": "/nhl-comparison-tool/static/css/main.aadcdcd3.chunk.css.map",
     "static/js/2.91de7324.chunk.js.LICENSE.txt": "/nhl-comparison-tool/static/js/2.91de7324.chunk.js.LICENSE.txt",
     "static/media/App.css": "/nhl-comparison-tool/static/media/StickOnly.f7caad88.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.31c78d56.js",
     "static/css/2.41953c31.chunk.css",
     "static/js/2.91de7324.chunk.js",
-    "static/css/main.57362530.chunk.css",
+    "static/css/main.aadcdcd3.chunk.css",
     "static/js/main.c05c238d.chunk.js"
   ]
 }
